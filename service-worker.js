@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ditch-fanzine/precache-manifest.73ee3ccca97778c263ebc26c6df9fd33.js"
+  "/ditch-fanzine/precache-manifest.eb96fd2476f2fb3642d215565ca74144.js"
 );
 
 self.addEventListener('message', (event) => {

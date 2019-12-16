@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/ditch-fanzine/static/css/main.d1b05096.chunk.css",
-    "main.js": "/ditch-fanzine/static/js/main.9969eac0.chunk.js",
-    "main.js.map": "/ditch-fanzine/static/js/main.9969eac0.chunk.js.map",
+    "main.css": "/ditch-fanzine/static/css/main.634ae58e.chunk.css",
+    "main.js": "/ditch-fanzine/static/js/main.a150c057.chunk.js",
+    "main.js.map": "/ditch-fanzine/static/js/main.a150c057.chunk.js.map",
     "runtime-main.js": "/ditch-fanzine/static/js/runtime-main.fdcb7f72.js",
     "runtime-main.js.map": "/ditch-fanzine/static/js/runtime-main.fdcb7f72.js.map",
     "static/js/2.eafb831c.chunk.js": "/ditch-fanzine/static/js/2.eafb831c.chunk.js",
     "static/js/2.eafb831c.chunk.js.map": "/ditch-fanzine/static/js/2.eafb831c.chunk.js.map",
     "index.html": "/ditch-fanzine/index.html",
-    "precache-manifest.73ee3ccca97778c263ebc26c6df9fd33.js": "/ditch-fanzine/precache-manifest.73ee3ccca97778c263ebc26c6df9fd33.js",
+    "precache-manifest.eb96fd2476f2fb3642d215565ca74144.js": "/ditch-fanzine/precache-manifest.eb96fd2476f2fb3642d215565ca74144.js",
     "service-worker.js": "/ditch-fanzine/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/ditch-fanzine/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.eafb831c.chunk.js.LICENSE": "/ditch-fanzine/static/js/2.eafb831c.chunk.js.LICENSE",
-    "static/media/logo.svg": "/ditch-fanzine/static/media/logo.5d5d9eef.svg"
+    "static/css/main.634ae58e.chunk.css.map": "/ditch-fanzine/static/css/main.634ae58e.chunk.css.map",
+    "static/js/2.eafb831c.chunk.js.LICENSE": "/ditch-fanzine/static/js/2.eafb831c.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.fdcb7f72.js",
     "static/js/2.eafb831c.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.9969eac0.chunk.js"
+    "static/css/main.634ae58e.chunk.css",
+    "static/js/main.a150c057.chunk.js"
   ]
 }
